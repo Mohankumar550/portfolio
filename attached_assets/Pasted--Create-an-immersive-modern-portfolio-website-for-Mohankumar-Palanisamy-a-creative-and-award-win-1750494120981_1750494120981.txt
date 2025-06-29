@@ -1,0 +1,78 @@
+🔧 Create an immersive, modern portfolio website for Mohankumar Palanisamy, a creative and award-winning software engineer. The theme is "Walking Through My Journey" — where visitors scroll or click through the timeline of his career as if they are walking alongside his growth.
+
+🌟 Core Concept:
+Use a horizontal or vertical timeline animation with smooth walk-through transitions.
+
+As the user scrolls, the avatar or silhouette of Mohankumar (or a line/dot/character) “walks” along a timeline path.
+
+Each milestone (job, award, project) appears with motion effects, e.g., slide-in cards, fading badges, glowing tags.
+
+🔥 Sections as Milestones (Scrollable + Animated):
+Landing Scene: "👋 Hi, I'm Mohankumar P" – with subtle ambient animation (stars, tech circuits, etc.)
+
+Show headline: “Engineer. Problem Solver. Creative Technologist.”
+
+CTA button: “🚶‍♂️ Walk My Journey”
+
+Milestone Cards (as scroll or timeline animation):
+
+🎓 2020 – Graduated in Computer Science (7.22 CGPA)
+
+🧑‍💻 2020–2022 – Freelance Developer (Python, Automation)
+
+🏢 2022–Present – Ramco Systems
+
+Built IPO Pipeline (PySpark)
+
+Quality Management Tool (Flask + SQL)
+
+Real-time Dashboard (React + Kafka)
+
+Received 🏆 Hi5 Award + 🥇 Certificate of Appreciation
+
+Add skill bubbles (hover to highlight used tech: PySpark, Flask, React, etc.)
+
+🚀 Projects Gallery:
+
+Interactive, hover-animated cards with tags & impact points.
+
+Bonus: Animated Lottie diagrams or code flow if possible.
+
+🧠 Skills Playground:
+
+Clickable tech stack badges (Python, Kafka, Docker, etc.) reveal how they were used.
+
+Add a circular or galaxy layout for creativity.
+
+📜 Awards Wall:
+
+Slide-in animated award frames with titles + icons.
+
+Hover effect: zoom & show full description.
+
+💬 MohanBot – Chat With My Resume:
+
+Add chatbot (floating bubble) with AI trained on his resume.
+
+First message: "Hi! I'm MohanBot 🤖. Ask me anything about Mohankumar's career or skills!"
+
+Use FastAPI/Express backend or OpenAI API if needed.
+
+📬 Contact Me:
+
+Stylish, animated contact form.
+
+Animated envelope flying when sent.
+
+Include LinkedIn, Email, and downloadable Resume button.
+
+👨‍💻 Tech Stack:
+Frontend: React + Tailwind CSS + Framer Motion + Lottie
+
+Backend (optional): Node.js or FastAPI for chatbot and form submission
+
+Animation: GSAP or Framer Motion for timeline and transitions
+
+Hosting-ready on Replit or exportable to Vercel
+
+🎨 Make it visually polished, responsive on all devices, and designed like an interactive CV meets a short film — with Mohankumar as the main character walking through his developer journey.

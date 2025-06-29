@@ -1,0 +1,83 @@
+Replit AI Prompt for a Unique, Modern Portfolio Website with Chatbot:
+🚀 Build a visually stunning, fully responsive, and creatively branded portfolio website for Mohankumar Palanisamy, a Software Engineer, Innovator & Tech Artist based in Chennai. The website should look like it was crafted by a creative product designer with different colours elements and coded by a world-class developer.
+
+🌐 Core Theme:
+Design language: Neo-modern UI with animated transitions, microinteractions, glassmorphism or claymorphism effects, subtle parallax scrolling, and smooth dark/light toggle.
+
+Visual identity: Tech-savvy, elegant, and confident — highlight innovation, not just information.
+
+🧩 Site Sections (Creative Implementation):
+Landing Page / Hero Section:
+
+Full-screen intro with animated background (canvas-based or Lottie).
+
+Typing animation: “Hi, I’m Mohankumar 👨‍💻 — Software Engineer. Creative Thinker. Problem Solver.”
+
+Button with “⚡ Explore My Work” scrolls to projects.
+
+About Me (with Interactive Timeline):
+
+A storytelling timeline showing evolution from college → freelancer → Ramco Systems.
+
+Highlight awards: Smart India Hackathon Finalist, Hi5 Award, Certificate of Appreciation.
+
+Creative Projects Showcase:
+
+Interactive cards with hover effects for each key project:
+
+Data Pipeline Tool (PySpark, Parquet, Fast ETL)
+
+Quality Management Tool (Flask, REST API, SQL)
+
+Real-time Review Dashboard (React, Express, Kafka, MongoDB)
+
+Each opens a modal with animated mockups and code snippet previews.
+
+Skills Galaxy:
+
+Circular interactive orbit layout showing tech stacks (Python, React.js, Docker, Kafka, SQL, MongoDB, etc).
+
+On hover: show short story of how you used that tech in real-world scenarios.
+
+Certifications & Achievements Section:
+
+Stylish badge-like display for:
+
+GIAC Python Coder (GUVI/IITM)
+
+Modern React (Udemy)
+
+Python (SLA Institute)
+
+Live Resume ChatBot ("MohanBot 🤖"):
+
+Floating chat bubble (bottom-right).
+
+GPT-style chat interface trained on resume content.
+
+Answers questions like:
+
+“What was your biggest project?”
+
+“Have you used Kafka or PySpark?”
+
+“Tell me about your recent award.”
+
+First message: “Hi, I’m MohanBot! Ask me anything about Mohankumar’s journey or projects 🚀”
+
+Contact Section:
+
+Creative contact form with animated success/failure states.
+
+Social icons: LinkedIn, GitHub, Email with hover animations.
+
+Optional QR code to download resume.
+
+🛠 Tech Stack:
+Frontend: React.js + Tailwind CSS + Framer Motion + Lottie animations.
+
+Backend (for chatbot): Node.js or FastAPI with a local LLM integration or OpenAI API.
+
+Deployment: Should run on Replit, with support for one-click deployment or export to Vercel/HuggingFace if needed.
+
+🎯 Goal: Build the most visually impressive and technically sound personal website that reflects Mohankumar’s creativity, engineering excellence, and problem-solving capabilities. Think of this like a recruiter’s dream website — modern, fast, and intelligent.
