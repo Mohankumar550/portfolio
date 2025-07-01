@@ -228,7 +228,7 @@ var vite_config_default = defineConfig({
       )
     ] : []
   ],
-  base: "./",
+  base: "/portfolio",
   resolve: {
     alias: {
       "@": path.resolve(import.meta.dirname, "client", "src"),
@@ -357,7 +357,12 @@ app.use((req, res, next) => {
   } else {
     serveStatic(app);
   }
-  app.listen(3e3, "localhost", () => {
-    console.log("Running on http://localhost:3000");
+  const port = 5e3;
+  server.listen({
+    port,
+    host: "0.0.0.0",
+    reusePort: true
+  }, () => {
+    log(`serving on port ${port}`);
   });
 })();
