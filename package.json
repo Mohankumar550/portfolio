@@ -8,7 +8,8 @@
     "build": "vite build && esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist",
     "start": "NODE_ENV=production node dist/index.js",
     "check": "tsc",
-    "db:push": "drizzle-kit push"
+    "db:push": "drizzle-kit push",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
@@ -53,6 +54,7 @@
     "express": "^4.21.2",
     "express-session": "^1.18.1",
     "framer-motion": "^11.18.2",
+    "gh-pages": "^6.3.0",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.453.0",
     "memorystore": "^1.6.7",
@@ -102,5 +104,8 @@
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.8"
-  }
+  },
+  "description": "This is a modern portfolio application showcasing the professional journey and achievements of Mohankumar Palanisamy, a Software Engineer at Ramco Systems. The application is built as a full-stack solution with React frontend and Express backend, featuring interactive components, AI-powered chatbot, and comprehensive project showcase.",
+  "main": "postcss.config.js",
+  "author": ""
 }
